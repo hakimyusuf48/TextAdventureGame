@@ -1,0 +1,42 @@
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.exe
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.deps.json
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.runtimeconfig.json
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.dll
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.pdb
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.AssemblyInfoInputs.cache
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.AssemblyInfo.cs
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.dll
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\refint\TextAdventureGame.dll
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.pdb
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.genruntimeconfig.cache
+C:\Users\Kim\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\ref\TextAdventureGame.dll
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.exe
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.deps.json
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.runtimeconfig.json
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.dll
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.pdb
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.AssemblyInfoInputs.cache
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.AssemblyInfo.cs
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.dll
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\refint\TextAdventureGame.dll
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.pdb
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.genruntimeconfig.cache
+C:\Users\Kim\Desktop\Organize\C#\Data Structures and Algorithms C#\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\ref\TextAdventureGame.dll
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.exe
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.deps.json
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.runtimeconfig.json
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.dll
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\bin\Debug\net8.0\TextAdventureGame.pdb
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.AssemblyInfoInputs.cache
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.AssemblyInfo.cs
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.dll
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\refint\TextAdventureGame.dll
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.pdb
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\TextAdventureGame.genruntimeconfig.cache
+C:\Users\Kim\Desktop\Csharp\Csharp_DSA\Data Structure\TextAdventureGame\TextAdventureGame\obj\Debug\net8.0\ref\TextAdventureGame.dll
